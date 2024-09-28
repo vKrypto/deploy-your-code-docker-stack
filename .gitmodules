@@ -1,12 +1,16 @@
 [submodule "apps/fastapi"]
 	path = apps/fastapi
 	url = https://github.com/vKrypto/boilerplate-fastapi
+	branch = main
 [submodule "apps/django"]
 	path = apps/django
 	url = https://github.com/vKrypto/boilerplate-django
+	branch = main
 [submodule "apps/nextjs"]
 	path = apps/nextjs
 	url = https://github.com/vKrypto/boilerplate-nextjs
+	branch = main
 [submodule "apps/expressjs"]
 	path = apps/expressjs
 	url = https://github.com/vKrypto/boilerplate-nodejs
+	branch = main
